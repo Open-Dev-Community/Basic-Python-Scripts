@@ -14,5 +14,4 @@ class Solution:
             i = 0
             while i < minstringlength and strs[0][i] == strs[listlength - 1][i]:
                 i += 1
-            resultantprefix = strs[0][0:i]
-            return resultantprefix
+            return strs[0][0:i]
