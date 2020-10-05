@@ -11,10 +11,8 @@ class Solution:
 
         li.sort(reverse=False)
         listLength = len(li)
+        mid = math.floor(listLength / 2)
         if listLength % 2 == 0:
-            mid = math.floor(listLength / 2)
-            result = (li[mid - 1] + li[mid]) / 2
-            return result
+            return (li[mid - 1] + li[mid]) / 2
         else:
-            mid = math.floor(listLength / 2)
             return li[mid]
