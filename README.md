@@ -1,8 +1,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/Open-Dev-Community/Basic-Python-Scripts)](https://github.com/Open-Dev-Community/Basic-Python-Scripts/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Open-Dev-Community/Basic-Python-Scripts?style=social)](https://github.com/Open-Dev-Community/Basic-Python-Scripts/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/Open-Dev-Community/Basic-Python-Scripts?style=social)](https://github.com/Open-Dev-Community/Basic-Python-Scripts/stargazers)
-![Python application](https://github.com/Open-Dev-Community/Basic-Python-Scripts/workflows/Python%20application/badge.svg?event=workflow_run)
-<p align="center">
+<br>
+![Python application](https://github.com/Open-Dev-Community/Basic-Python-Scripts/workflows/Python%20application/badge.svg)
 
   <img src="https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540">
 
