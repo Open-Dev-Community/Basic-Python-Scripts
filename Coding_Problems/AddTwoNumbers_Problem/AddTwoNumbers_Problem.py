@@ -26,9 +26,9 @@ class Solution(object):
         if sval < 10:
             ansnode = ListNode(sval)
             ansnode.next = self.addTwoNumbers(l1.next, l2.next)
-            return ansnode
         else:
             rval = l1.val + l2.val - 10
             ansnode = ListNode(rval)
             ansnode.next = self.addTwoNumbers(ListNode(1), self.addTwoNumbers(l1.next, l2.next))
-            return ansnode
+
+        return ansnode
