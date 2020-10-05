@@ -5,13 +5,13 @@ def lengthOfLongestSubstring(self, s: str) -> int:
         i=0    # left index
         j=0    # right index
         while i<n and j<n:
-            if(not s[j] in word_set ):
-                word_set.add(s[j]) # adding new character in set
-                j+=1
-                ans=max(ans,j-i)
-            else:
-                word_set.remove(s[i]) # removing older character from set
-                i+=1
+                if s[j] not in word_set:
+                        word_set.add(s[j]) # adding new character in set
+                        j+=1
+                        ans=max(ans,j-i)
+                else:
+                        word_set.remove(s[i]) # removing older character from set
+                        i+=1
         return ans
 
 
