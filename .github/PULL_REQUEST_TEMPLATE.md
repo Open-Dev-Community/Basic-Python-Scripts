@@ -5,6 +5,8 @@
 
 ### Issue no.(must) -
 
+### Add a Screenshot of your code passing on the private test cases on Leetcode (COMPULSORY)
+
 ### Self Check(Tick After Making pull Request)
 
 - [ ] This issue was assigned to me
