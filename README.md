@@ -35,3 +35,4 @@ This is an open-to-all repository, where we encourage, students, teachers, devel
 2. The file name must be the name of the problem. Say the N-Queens problem. So, your file name should be : ```NQueens_Problem```
 
 HAPPY CONTRIBUTING !!
+  <img src="https://avatars0.githubusercontent.com/u/49288068?s=460&u=2bf7afa3bd9861a1eef8c5d74006d6f2df7b8ee2&v=4" width="100" /><br><a href="https://github.com/BALaka-18" target="_blank"><strong>Balaka</strong></a>
