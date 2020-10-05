@@ -1,4 +1,5 @@
 import math
+from autopep8 import List
 
 
 class Solution:
@@ -10,9 +11,9 @@ class Solution:
             li.append(index)
 
         li.sort(reverse=False)
-        listLength = len(li)
-        mid = math.floor(listLength / 2)
-        if listLength % 2 == 0:
+        listlength = len(li)
+        mid = math.floor(listlength / 2)
+        if listlength % 2 == 0:
             return (li[mid - 1] + li[mid]) / 2
         else:
             return li[mid]
