@@ -17,7 +17,6 @@ This is an open-to-all repository, where we encourage, students, teachers, devel
 
 ##### Languages : Python.
 
-
 ### HOW TO CONTRIBUTE
 
 1. Star the repository
